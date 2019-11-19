@@ -1,3 +1,6 @@
+# Em Programação  
+
+
 Complexidade computacional  
 Algoritmos como representação de procedimentos de cálculo e lógica  
 Estruturas de código  
@@ -7,7 +10,10 @@ iteradores
 Ferramentas de abstração  
 funções  
 classes  
-Em Matemática  
+
+
+ 
+# Em Matemática  
 Estudo de funções  
 
 Raízes  
