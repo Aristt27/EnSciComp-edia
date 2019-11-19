@@ -2,6 +2,12 @@
 
 This is a repository to build a categorical encyclopedia of all the topics ever taught in Scientific Computings Course.
 
+
+
+The First Fond:
+- Numerical Methods
+
+
 Stuff to write:
 
 -Tiltes  
