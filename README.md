@@ -3,6 +3,8 @@
 This is a repository to build a categorical encyclopedia of all the topics ever taught in Scientific Computings Course.
 
 
+Note from the author in portuguese:
+ESCOLHER ESSES FONDS É TIPO FAZER TRABALHO DE APRENDIZADO DE MAQUINA MANUALMENTE (S A D).
 
 The First Fond:
 - Numerical Methods
