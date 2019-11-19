@@ -4,22 +4,25 @@ This is a repository to build a categorical encyclopedia of all the topics ever 
 
 Stuff to write:
 
--Tiltes
--Creators
--Dates
--How much material is there
--Genres/Themes
--Types of files
--Source/Refernces
+-Tiltes  
+-Creators  
+-Dates  
+-How much material is there  
+-Genres/Themes  
+-Types of files  
+-Source/Refernces  
+
+Talk about any restrictions on access/reproduction   
+Size of the files  
 
 Problably a good idea to have a ipynb file for every .py file and vice versa.
 
 
-I'll be following the four principles of ISAD(G):
-- Descrpition proceeeding form the general to the specific
-- Information should be relevant to the level of descrpition
-- Descriptions should be linked between levels
-- Non-repetition of information
+I'll be following the four principles of ISAD(G):  
+- Descrpition proceeeding form the general to the specific  
+- Information should be relevant to the level of descrpition  
+- Descriptions should be linked between levels  
+- Non-repetition of information  
 
 I'll also try to not forget the essentioal elements for international exchange of information and gather as many data elements i can for every item.
 
