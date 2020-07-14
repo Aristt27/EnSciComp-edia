@@ -1,4 +1,4 @@
-# EnSciComp-edia
+# SciComp-edia
 
 This is a repository to build a categorical encyclopedia of all the topics ever taught in Scientific Computings Course.
 
